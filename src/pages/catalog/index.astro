@@ -11,6 +11,9 @@ allPosts = allPosts.sort((a, b) => new Date(b.data.publishDate).valueOf() - new 
 ---
 
 <BaseLayout title={title} description={description} permalink={permalink} current="catalog">
+  <figure class="catalog-image">
+      <img src="/assets/tool-catalog.webp" alt="An old-fashioned paper catalog" width="300">
+    </figure>
   <div class="container">
     <h1>Catalog</h1>
     {allPosts.map((post, index) => {
@@ -50,4 +53,16 @@ allPosts = allPosts.sort((a, b) => new Date(b.data.publishDate).valueOf() - new 
   hr {
     margin: 60px auto;
   }
+
+  .catalog-image {
+    float: right;
+  }
+
+
+  /*@media (max-width: 1020px) {
+    .catalog-image {
+      float: none;
+      margin: 0 auto 2em;
+    }*/
+  
 </style>

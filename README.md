@@ -1,20 +1,20 @@
-# [Astro](https://astro.build) Blog Template
+# [Astro](https://astro.build) Catalog Template
 
-[![Screenshot](screenshot.png)](https://astro-blog-template.netlify.app/)
+[![Screenshot](screenshot.png)](https://astro-catalog-template.netlify.app/)
 
-## 👉 Check out the ✨ [Live Demo](https://astro-blog-template.netlify.app/) ✨
+## 👉 Check out the ✨ [Live Demo](https://astro-catalog-template.netlify.app/) ✨
 
 ## 👩‍🚀 Getting Started
 
 ### Locally
 
 ```
-npm init astro -- --template Charca/astro-blog-template
+npm init astro -- --template Charca/astro-catalog-template
 ```
 
 ### On StackBlitz
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/charca/astro-blog-template)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/charca/astro-catalog-template)
 
 ## ✨ Features:
 
