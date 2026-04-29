@@ -13,6 +13,9 @@ export default defineConfig({
     shikiConfig: {
       theme: 'nord',
     },
+    markdown: {
+    format: 'mdx', 
+    },
     remarkPlugins: [remarkGfm, remarkSmartypants],
     rehypePlugins: [
       [
