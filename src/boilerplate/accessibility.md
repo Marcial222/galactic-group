@@ -1,16 +1,6 @@
-## User
-
-[No text]
-
-## AI Response
-
-#### ChatGPT said:
-
-Writing
-
 **Accessibility Statement for Cyclamen Press**
 
-Cyclamen Press is committed to ensuring digital accessibility for all users, including people with disabilities. We believe that wellness resources—such as meditation guides, healthy snack recipes, and self-care content—should be accessible to everyone, regardless of ability or technology.
+Cyclamen Press is committed to ensuring digital accessibility for all users, including people with disabilities. We believe that wellness resources—such as our meditation guides, healthy snack recipes, and suggestions for self-care—should be accessible to everyone, regardless of ability or technology.
 
 **Our Commitment**
 We strive to design and produce ebooks and digital materials that are inclusive and usable by a wide range of audiences. Our goal is to meet or exceed applicable accessibility standards, including the Web Content Accessibility Guidelines (WCAG) 2.1 Level AA, wherever feasible.
@@ -32,13 +22,9 @@ We welcome feedback on the accessibility of our products. If you encounter acces
 
 Cyclamen Press
 [Insert Email Address]
-[Insert Mailing Address, if applicable]
-
-We aim to respond to accessibility inquiries promptly and to provide alternative formats or assistance when possible.
+We strive to respond to accessibility inquiries promptly and to provide alternative formats or assistance when possible.
 
 **Compatibility**
 Our ebooks are designed to be compatible with commonly used assistive technologies and reading platforms. However, compatibility may vary depending on the device or software used.
 
 Cyclamen Press is dedicated to making wellness knowledge inclusive, practical, and accessible to all.
-
-Do you like this personality?

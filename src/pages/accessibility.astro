@@ -1,0 +1,18 @@
+
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { Content } from '../boilerplate/accessibility.md';
+import BacktoTop from '../components/BacktoTop.jsx';
+
+const title = 'Accessibiliy';
+const description = 'Accessibilty Policy.';
+const permalink = `${Astro.site.href}accessibility`;
+---
+
+<BaseLayout title={title} description={description} permalink={permalink} current="accessibility">
+  <div class="text-container">
+    <Content />
+  </div>
+  <slot />  
+  <BacktoTop client:only="react" />
+  </BaseLayout>

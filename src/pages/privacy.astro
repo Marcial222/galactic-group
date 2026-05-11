@@ -1,0 +1,20 @@
+
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { Content } from '../boilerplate/privacy.md';
+import BacktoTop from '../components/BacktoTop.jsx';
+
+const title = 'Privacy';
+const description = 'Cyclamen Press Privacy Policy.';
+const permalink = `${Astro.site.href}privacy`;
+---
+
+<BaseLayout title={title} description={description} permalink={permalink} current="privacy">
+  <div class="text-container">
+    <Content />
+  </div>
+  <slot />  
+  <BacktoTop client:only="react" />
+</BaseLayout>
+
+

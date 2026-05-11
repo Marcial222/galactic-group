@@ -8,7 +8,7 @@
 }
 
 :root.theme-dark {
-  --background-body: #353435;
+  --background-body: #333333;
   --text-main: #fff;
   --text-secondary: #ccc;
   --primary-color: #548e9b;
@@ -54,36 +54,36 @@ h6 {
 
 h1 {
   font-family: var(--font-family-serif);
-  font-size: 4em;
+  font-size: 2em;
   margin: 0 0 1em 0;
 }
 
 h2 {
   margin: 1.6em 0 0 0;
-  font-size: 1.8em;
-}
-
-h3 {
   font-size: 1.5em;
 }
 
+h3 {
+  font-size: 1.25em;
+}
+
 h4 {
-  font-size: 1.4em;
+  font-size: 1em;
 }
 
 h5 {
-  font-size: 1.3em;
+  font-size: 0.9em;
 }
 
 h6 {
-  font-size: 1.2em;
+  font-size: 0.8em;
 }
 
 p,
 ul,
 ol {
-  font-size: 1.3rem;
-  line-height: 1.75em;
+  font-size: 12px;
+  line-height: normal;
   margin: 1.2em 0;
 }
 
@@ -210,8 +210,13 @@ td {
   width: 100%;
 }
 
+.text-container {
+  margin: 0 auto;
+  width: 80%;
+}
+
 .content h1 {
-  font-size: 3em;
+  font-size: 1em;
   margin: 1em 0;
 }
 
@@ -275,7 +280,7 @@ input[name='theme-toggle'] {
   p,
   ul,
   ol {
-    font-size: 1.2rem;
+    font-size: 1rem;
     margin: 1em 0;
   }
 }
