@@ -10,7 +10,7 @@ import react from '@astrojs/react';
 // https://astro.build/config
 export default defineConfig({
   site: 'http://localhost:4321',
-  integrations: [mdx(), svelte(), react()],
+  integrations: [mdx(),svelte(),react()],
   markdown: {
     shikiConfig: {
       theme: 'nord',
@@ -27,5 +27,5 @@ export default defineConfig({
         },
       ],
     ],
-  },
-})
+   },
+  })
